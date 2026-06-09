@@ -61,7 +61,7 @@ ASE-Project-242/
 
 ### 1. Clone the repository
 
-git clone https://github.com/DucAnnee/ASE-Project-242.git
+git clone https://github.com/anassrh/ASE-Project-242
 cd ASE-Project-242
 mkdir -p mysql/primary/conf.d
 mkdir -p mysql/replica/conf.d
